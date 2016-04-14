@@ -1,0 +1,9 @@
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_07\Piazza_07\bin\Debug\Piazza_07.exe.config
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_07\Piazza_07\bin\Debug\Piazza_07.exe
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_07\Piazza_07\bin\Debug\Piazza_07.pdb
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_07\Piazza_07\obj\Debug\Piazza_07.csprojResolveAssemblyReference.cache
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_07\Piazza_07\obj\Debug\Piazza_07.Form1.resources
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_07\Piazza_07\obj\Debug\Piazza_07.Properties.Resources.resources
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_07\Piazza_07\obj\Debug\Piazza_07.csproj.GenerateResource.Cache
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_07\Piazza_07\obj\Debug\Piazza_07.exe
+C:\Users\Beibarys\Desktop\Programming Technologies C# Course\Console Applications\Piazza_07\Piazza_07\obj\Debug\Piazza_07.pdb
